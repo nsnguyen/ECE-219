@@ -1,2 +1,2 @@
 # ECE-219
-ECE 219
+Large-Scale Data Mining: Models and Algorithms
